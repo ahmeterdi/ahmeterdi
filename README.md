@@ -114,7 +114,7 @@ Ayrıca **Hacker Akademisi** ve **HackerLab** projeleri kapsamında uygulamalı 
 		</a>
 	  </h3>
       <p><strong>Seri:<strong>&nbsp;Gömülü Sistemlerin Güvenlik Analizi</strong><br><strong>Hedef:<strong>&nbsp;<a href="#">TP-Link WR840N v6.20</a></p>
-      <p>UART protokolü üzerinden gömülü sistemlerin donanım seviyesindeki güvenliğini inceleyen 12 bölümlük teknik araştırma serisi.</p>
+      <p>UART protokolü üzerinden gömülü sistemlerin donanım seviyesindeki güvenliğini, fiziksel erişim yöntemlerini ve olası güvenlik açıklarını inceleyen teknik araştırma serisi.</p>
         <p>
 		  <a href="#">
 			<img src="https://img.shields.io/badge/Embedded_Systems-Research-6A5ACD?style=flat-square" alt="Embedded Systems Research">
@@ -146,7 +146,7 @@ Ayrıca **Hacker Akademisi** ve **HackerLab** projeleri kapsamında uygulamalı 
 		</a>
 	  </h3>
       <p><strong>Seri:<strong>&nbsp;Gömülü Sistemlerin Güvenlik Analizi<br><strong>Hedef:<strong>&nbsp;<a href="#">TP-Link WR840N v6.20</a></p>
-      <p>UART protokolü üzerinden gömülü sistemlerin donanım seviyesindeki güvenliğini inceleyen 12 bölümlük teknik araştırma serisi.</p>
+      <p>Router sistemlerinde donanım seviyesinde kalıcılık sağlayan chip implant saldırılarını, uygulama yöntemlerini ve güvenlik etkilerini inceleyen teknik araştırma serisi.</p>
         <p>
 		  <a href="#">
 			<img src="https://img.shields.io/badge/Embedded_Systems-Research-6A5ACD?style=flat-square" alt="Embedded Systems Research">
