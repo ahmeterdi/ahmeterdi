@@ -128,12 +128,7 @@ Ayrıca **Hacker Akademisi** ve **HackerLab** projeleri kapsamında uygulamalı 
 		</p>
     </td>
   </tr>
-</table>
-
----
-
-<table width="100%" border="0" cellpadding="0" cellspacing="0">
-  <tr>
+    <tr>
     <td width="40%" valign="middle" style="padding:0;">
 	  <a href="#">
 		<img
@@ -167,6 +162,7 @@ Ayrıca **Hacker Akademisi** ve **HackerLab** projeleri kapsamında uygulamalı 
   </tr>
 </table>
 
+---
 
 <h2 id="calismalar"><code>06 // Üzerinde Çalıştığım Konular</code></h2>
 
