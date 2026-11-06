@@ -1,4 +1,4 @@
-# Ahmet Erdi |`[ Siber Güvenlik Araştırmacısı ]`
+<h2>Ahmet Erdi | <code>[ Siber Güvenlik Araştırmacısı ]</code></h2>
 
 <h2><code>00 // Bölümler</code></h2>
 
