@@ -1,58 +1,47 @@
-# Ahmet Erdi | Siber Güvenlik Araştırmacısı
+# Ahmet Erdi
+### `[ Siber Güvenlik Araştırmacısı ]`
 
-<p align="center">
-  <img src="https://img.shields.io/badge/SİBER_GÜVENLİK-Araştırmacı-111927?style=for-the-badge&labelColor=00e676" />
-  <img src="https://img.shields.io/badge/SIZMA_TESTİ-00e676?style=for-the-badge&labelColor=111927" />
-  <img src="https://img.shields.io/badge/GÜVENLİK_ARAŞTIRMASI-00e676?style=for-the-badge&labelColor=111927" />
-</p>
-
-<p align="center">
-  <b>Siber Güvenlik Araştırmacısı | Sızma Testi Uzmanı | Siber Güvenlik Eğitmeni</b>
-</p>
-
-<p align="center">
-  Web ve API güvenliği, ağ güvenliği, sızma testleri, gömülü sistem güvenliği ve donanım seviyesinde güvenlik araştırmaları üzerine çalışmalar yürütüyorum.
+<p>
+  <img src="https://img.shields.io/badge/@erdibilisim-181818?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Siber_Güvenlik-Araştırma-2457A6?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Penetrasyon_Testleri-Uygulama-E87524?style=for-the-badge" />
 </p>
 
 ---
 
-## Hakkımda
+## `01 // Hakkımda`
 
-Siber güvenlik alanında teknik araştırma, güvenlik testleri, zafiyet analizi ve uygulamalı eğitim içerikleri geliştirme üzerine çalışıyorum.
+Siber güvenlik, penetrasyon testleri ve teknik güvenlik araştırmaları üzerine çalışıyorum.
 
-Çalışmalarımda teorik güvenlik bilgisini uygulamalı laboratuvar ortamlarıyla birleştirerek gerçek dünya senaryolarına dayalı güvenlik araştırmaları gerçekleştiriyorum.
+Web ve API güvenliği, ağ güvenliği, gömülü sistemler ve donanım seviyesinde güvenlik konularında araştırmalar yürütüyorum.
 
-Siber güvenlik alanında bilgi paylaşımını ve uygulamalı öğrenmeyi desteklemek amacıyla **Hacker Akademisi** ve **HackerLab** projelerini geliştiriyorum.
+Ayrıca **Hacker Akademisi** ve **HackerLab** projeleri kapsamında uygulamalı siber güvenlik eğitimleri ve laboratuvar ortamları geliştiriyorum.
 
----
+## `02 // Uzmanlık Alanları`
 
-## Uzmanlık Alanlarım
-
-| Uzmanlık Alanı | Çalışma Konuları |
+| Alan | Çalışma Konuları |
 |---|---|
-| **Web ve API Güvenliği** | Web uygulama güvenliği, REST API testleri, kimlik doğrulama ve yetkilendirme, IDOR, BOLA, Broken Access Control, OWASP Top 10, JWT güvenliği |
-| **Sızma Testleri** | Güvenlik test metodolojileri, zafiyet analizi, kontrollü istismar, Linux tabanlı sızma testleri, güvenlik değerlendirmeleri |
-| **Ağ Güvenliği** | Ağ keşfi, port ve servis analizi, trafik inceleme, güvenlik duvarları, ağ segmentasyonu, altyapı güvenliği |
-| **Gömülü Sistem ve Donanım Güvenliği** | UART protokol analizi, donanım seviyesinde erişim, firmware analizi, Embedded Linux, IoT güvenliği |
-| **Akademik Araştırma** | Siber güvenlik araştırmaları, zafiyet araştırmaları, deneysel analiz, teknik dokümantasyon, akademik yazım |
-| **Siber Güvenlik Eğitimi** | Uygulamalı eğitim içerikleri, laboratuvar geliştirme, müfredat tasarımı, güvenlik senaryoları, teknik dokümantasyon |
+| 🌐 **Web & API Güvenliği** | OWASP Top 10, REST API, IDOR, BOLA, JWT, Yetkilendirme |
+| 🎯 **Sızma Testleri** | Keşif, servis analizi, zafiyet tespiti, kontrollü istismar |
+| 🌍 **Ağ Güvenliği** | Ağ keşfi, trafik analizi, firewall, ağ segmentasyonu |
+| 🔧 **Donanım Güvenliği** | UART, Firmware, Embedded Linux, IoT |
+| 📚 **Akademik Araştırma** | Zafiyet araştırmaları, teknik analiz, akademik yayın |
+| 🎓 **Siber Güvenlik Eğitimi** | Müfredat geliştirme, uygulamalı laboratuvarlar, eğitim senaryoları |
 
----
+## `03 // Teknik Araçlar ve Teknolojiler`
 
-## Teknik Araç Setim
-
-### İşletim Sistemleri ve Altyapı
+**İşletim Sistemleri ve Altyapı**
 
 <p>
   <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Windows-0078D4?style=flat-square&logo=windows&logoColor=white" />
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white" />
-  <img src="https://img.shields.io/badge/Debian-A81D33?style=flat-square&logo=debian&logoColor=white" />
   <img src="https://img.shields.io/badge/Proxmox-E57000?style=flat-square&logo=proxmox&logoColor=white" />
   <img src="https://img.shields.io/badge/pfSense-212121?style=flat-square&logo=pfsense&logoColor=white" />
-  <img src="https://img.shields.io/badge/Windows-0078D4?style=flat-square&logo=windows&logoColor=white" />
 </p>
 
-### Güvenlik ve Sızma Testi Araçları
+**Güvenlik ve Sızma Testi Araçları**
 
 <p>
   <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white" />
@@ -61,21 +50,19 @@ Siber güvenlik alanında bilgi paylaşımını ve uygulamalı öğrenmeyi deste
   <img src="https://img.shields.io/badge/Metasploit-2596CD?style=flat-square&logo=metasploit&logoColor=white" />
   <img src="https://img.shields.io/badge/SQLmap-CC0000?style=flat-square&logo=databricks&logoColor=white" />
   <img src="https://img.shields.io/badge/Gobuster-222222?style=flat-square" />
-  <img src="https://img.shields.io/badge/FFUF-222222?style=flat-square" />
-  <img src="https://img.shields.io/badge/Hydra-222222?style=flat-square" />
-  <img src="https://img.shields.io/badge/John_the_Ripper-222222?style=flat-square" />
-  <img src="https://img.shields.io/badge/Hashcat-222222?style=flat-square" />
-  <img src="https://img.shields.io/badge/Netcat-222222?style=flat-square" />
+  <img src="https://img.shields.io/badge/FFUF-7B61A8?style=flat-square" />
+  <img src="https://img.shields.io/badge/Hydra-D65B32?style=flat-square" />
+  <img src="https://img.shields.io/badge/John_the_Ripper-555555?style=flat-square" />
+  <img src="https://img.shields.io/badge/Hashcat-318CE7?style=flat-square" />
+  <img src="https://img.shields.io/badge/Netcat-444444?style=flat-square" />
   <img src="https://img.shields.io/badge/OWASP_ZAP-00549E?style=flat-square&logo=owasp&logoColor=white" />
-  <img src="https://img.shields.io/badge/OWASP-000000?style=flat-square&logo=owasp&logoColor=white" />
-  <img src="https://img.shields.io/badge/Dirsearch-222222?style=flat-square" />
-  <img src="https://img.shields.io/badge/Enum4linux-222222?style=flat-square" />
-  <img src="https://img.shields.io/badge/NetExec-222222?style=flat-square" />
-  <img src="https://img.shields.io/badge/Impacket-222222?style=flat-square" />
-  <img src="https://img.shields.io/badge/Responder-222222?style=flat-square" />
+  <img src="https://img.shields.io/badge/Impacket-7952B3?style=flat-square" />
+  <img src="https://img.shields.io/badge/NetExec-008B8B?style=flat-square" />
+  <img src="https://img.shields.io/badge/Responder-C75B39?style=flat-square" />
+  <img src="https://img.shields.io/badge/Dirsearch-607D8B?style=flat-square" />
 </p>
 
-### Programlama ve Yazılım Geliştirme
+**Programlama ve Geliştirme**
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
@@ -86,113 +73,58 @@ Siber güvenlik alanında bilgi paylaşımını ve uygulamalı öğrenmeyi deste
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux_Shell-4EAA25?style=flat-square&logo=gnubash&logoColor=white" />
 </p>
 
----
+## `04 // Projeler`
 
-## Projeler ve Girişimler
+| Proje | Açıklama |
+|---|---|
+| 🏛️ **Hacker Akademisi** | Siber güvenlik eğitimleri, müfredatlar ve uygulamalı öğrenme içerikleri |
+| 🧪 **HackerLab** | İzole sanal laboratuvarlar, zafiyetli sistemler ve uygulamalı güvenlik senaryoları |
 
-### Hacker Akademisi
+## `05 // Araştırmalar`
 
-Siber güvenlik alanında sistematik, uygulamalı ve seviyelendirilmiş eğitim içerikleri geliştirmeyi amaçlayan eğitim platformu.
+**UART Protokolü ile Gömülü Sistemlerin Güvenliği**
 
-- Linux ve Kali Linux eğitimleri
-- Web uygulama güvenliği
-- API güvenliği
-- OWASP Top 10 odaklı eğitimler
-- Uygulamalı sızma testi müfredatları
-- Teknik dokümantasyon ve Cheatsheet içerikleri
+TP-Link WR840N v6.20 üzerinde donanım seviyesinde erişim ve gömülü sistem güvenliği araştırması.
 
-### HackerLab
+- UART arayüz analizi
+- Seri haberleşme ve konsol erişimi
+- Firmware ve Embedded Linux incelemesi
+- IoT donanım güvenliği
 
-Siber güvenlik eğitimleri için izole, kontrollü ve uygulamalı laboratuvar altyapısı.
-
-- Proxmox tabanlı sanallaştırma altyapısı
-- Kali Linux öğrenci makineleri
-- İzole laboratuvar ağları
-- OWASP Juice Shop ve WebGoat tabanlı güvenlik senaryoları
-- API güvenlik test laboratuvarları
-- Bayrak (Flag) tabanlı uygulamalı değerlendirme sistemi
-
----
-
-## Akademik Araştırmalar
-
-### Donanım Seviyesinde Yetkisiz Erişim: UART Protokolü ile Gömülü Sistemlerin İhlali
-
-TP-Link WR840N v6.20 cihazı üzerinde UART protokolü aracılığıyla donanım seviyesinde erişim ve gömülü sistem güvenliği üzerine yürütülen araştırma.
-
-**Araştırma Konuları:**
-
-- UART arayüzünün tespiti
-- TX / RX / GND / VCC pin analizi
-- Seri haberleşme (115200 8N1)
-- Gömülü Linux mimarisi
-- Bootloader ve konsol erişimi
-- Donanım seviyesinde güvenlik değerlendirmesi
-- IoT cihaz güvenliği
-
----
-
-## Siber Güvenlik Platformları
-
-<p>
-  <a href="https://www.hackthebox.com/">
-    <img src="https://img.shields.io/badge/Hack_The_Box-00e676?style=for-the-badge&logo=hackthebox&logoColor=111927" />
-  </a>
-  <a href="https://tryhackme.com/">
-    <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" />
-  </a>
-  <a href="https://portswigger.net/web-security">
-    <img src="https://img.shields.io/badge/PortSwigger-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" />
-  </a>
-  <a href="https://owasp.org/">
-    <img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white" />
-  </a>
-</p>
-
----
-
-## GitHub İstatistikleri
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=GITHUB_KULLANICI_ADIN&show_icons=true&theme=transparent&hide_border=true&title_color=00e676&icon_color=00e676&text_color=ffffff" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GITHUB_KULLANICI_ADIN&layout=compact&theme=transparent&hide_border=true&title_color=00e676&text_color=ffffff" />
-</p>
-
----
-
-## Üzerinde Çalıştığım Konular
+## `06 // Şu An Üzerinde Çalıştıklarım`
 
 ```diff
-+ Uygulamalı Web ve API güvenlik laboratuvarları geliştirmek
-+ OWASP Top 10:2025 zafiyetlerini uygulamalı senaryolarla eşleştirmek
-+ Sistematik siber güvenlik eğitim müfredatları hazırlamak
-+ Gömülü Linux ve donanım seviyesinde güvenlik araştırmaları yürütmek
-+ Node.js tabanlı zafiyetli API laboratuvarları geliştirmek
-+ Sızma testi metodolojilerini geliştirmek
++ OWASP Top 10:2025 tabanlı uygulamalı güvenlik senaryoları
++ Web ve API penetrasyon testi laboratuvarları
++ Node.js tabanlı zafiyetli API sistemleri
++ Gömülü Linux ve donanım güvenliği araştırmaları
++ Hacker Akademisi eğitim müfredatları
++ HackerLab sanallaştırma ve laboratuvar altyapısı
 ```
 
----
-
-## İletişim
+## `07 // GitHub İstatistikleri`
 
 <p align="center">
-  <a href="https://github.com/GITHUB_KULLANICI_ADIN">
-    <img src="https://img.shields.io/badge/GitHub-111927?style=for-the-badge&logo=github&logoColor=00e676" />
-  </a>
-  <a href="https://www.linkedin.com/in/LINKEDIN_KULLANICI_ADIN/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=erdibilisim&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erdibilisim&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-<p align="center">
-  <b>Araştır. Analiz Et. Test Et. Güvence Altına Al.</b>
+## `08 // İletişim`
+
+<p>
+  <a href="https://github.com/erdibilisim">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
 
 <p align="center">
-  <sub>Teori, uygulamayla buluştuğunda bilgiye dönüşür.</sub>
+  <code>RESEARCH // ANALYZE // TEST // SECURE</code>
+</p>
+
+<p align="center">
+  <sub>Bilgi, araştırma ve uygulamayla gelişir.</sub>
 </p>
