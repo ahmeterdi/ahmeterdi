@@ -119,10 +119,10 @@ Ayrıca **Hacker Akademisi** ve **HackerLab** projeleri kapsamında uygulamalı 
         <p>
 		  <a href="#">
 			<img src="https://img.shields.io/badge/Embedded_Systems-Research-6A5ACD?style=flat-square" alt="Embedded Systems Research">
-		  </a>
+		  </a>&nbsp;&nbsp;
 		  <a href="#">
 			<img src="https://img.shields.io/badge/UART-Analysis-007ACC?style=flat-square" alt="UART Analysis">
-		  </a>
+		  </a>&nbsp;&nbsp;
 		  <a href="#">
 			<img src="https://img.shields.io/badge/Hardware-Security-E67E22?style=flat-square" alt="Hardware Security">
 		  </a>
