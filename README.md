@@ -1,13 +1,13 @@
 # Ahmet Erdi |`[ Siber Güvenlik Araştırmacısı ]`
 
-<h2><code>00 // Navigasyon</code></h2>
+<h2><code>00 // Bölümler</code></h2>
 
 <p align="center">
   <a href="#hakkimda">👤 Hakkımda</a>
   &nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="#uzmanlik-alanlari">🎯 Uzmanlık</a>
+  <a href="#uzmanlik-alanlari">🎯 Uzmanlık Alanlarım</a>
   &nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="#teknik-araclar">🛠️ Araçlar</a>
+  <a href="#teknik-araclar">🛠️ Araçlar ve Teknolojiler</a>
   &nbsp;&nbsp;·&nbsp;&nbsp;
   <a href="#projeler">📂 Projeler</a>
   <br><br>
