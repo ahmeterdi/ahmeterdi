@@ -3,7 +3,7 @@
 ## `00 // Bölümler`
 
 <p align="center">
-  <a href="#Hakkımda">👤 Hakkımda</a>
+  <a href="#hakkimda">👤 Hakkımda</a>
   &nbsp;|&nbsp;
   <a href="#uzmanlik-alanlari">🎯 Uzmanlık Alanları</a>
   &nbsp;|&nbsp;
@@ -22,7 +22,7 @@
 
 ---
 
-## `01 // Hakkımda`
+<h2 id="hakkimda">01 // Hakkımda</h2>
 
 Siber güvenlik, penetrasyon testleri ve teknik güvenlik araştırmaları üzerine çalışıyorum.
 
@@ -30,7 +30,7 @@ Web ve API güvenliği, ağ güvenliği, gömülü sistemler ve donanım seviyes
 
 Ayrıca **Hacker Akademisi** ve **HackerLab** projeleri kapsamında uygulamalı siber güvenlik eğitimleri ve laboratuvar ortamları geliştiriyorum.
 
-## `02 // Uzmanlık Alanları`
+<h2 id="uzmanlik-alanlari">02 // Uzmanlık Alanları</h2>
 
 | Alan | Çalışma Konuları |
 |---|---|
@@ -41,7 +41,7 @@ Ayrıca **Hacker Akademisi** ve **HackerLab** projeleri kapsamında uygulamalı 
 | 📚 **Akademik Araştırma** | Zafiyet araştırmaları, teknik analiz, akademik yayın |
 | 🎓 **Siber Güvenlik Eğitimi** | Müfredat geliştirme, uygulamalı laboratuvarlar, eğitim senaryoları |
 
-## `03 // Teknik Araçlar ve Teknolojiler`
+<h2 id="teknik-araclar">03 // Teknik Araçlar ve Teknolojiler</h2>
 
 **İşletim Sistemleri ve Altyapı**
 
@@ -88,14 +88,14 @@ Ayrıca **Hacker Akademisi** ve **HackerLab** projeleri kapsamında uygulamalı 
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
 </p>
 
-## `04 // Projeler`
+<h2 id="projeler">04 // Projeler</h2>
 
 | Proje | Açıklama |
 |---|---|
 | 🏛️ **Hacker Akademisi** | Siber güvenlik eğitimleri, müfredatlar ve uygulamalı öğrenme içerikleri |
 | 🧪 **HackerLab** | İzole sanal laboratuvarlar, zafiyetli sistemler ve uygulamalı güvenlik senaryoları |
 
-## `05 // Araştırmalar`
+<h2 id="arastirmalar">05 // Araştırmalar</h2>
 
 <table width="100%" border="0" cellpadding="0" cellspacing="0">
   <tr>
@@ -121,7 +121,7 @@ Ayrıca **Hacker Akademisi** ve **HackerLab** projeleri kapsamında uygulamalı 
   </tr>
 </table>
 
-## `06 // Şu An Üzerinde Çalıştıklarım`
+<h2 id="calismalar">06 // Üzerinde Çalıştığım Konular</h2>
 
 ```diff
 + OWASP Top 10:2025 tabanlı uygulamalı güvenlik senaryoları
@@ -132,7 +132,7 @@ Ayrıca **Hacker Akademisi** ve **HackerLab** projeleri kapsamında uygulamalı 
 + HackerLab sanallaştırma ve laboratuvar altyapısı
 ```
 
-## `07 // GitHub İstatistikleri`
+<h2 id="istatistikler">07 // GitHub İstatistikleri</h2>
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=erdibilisim&show_icons=true&theme=tokyonight&hide_border=true" />
@@ -141,7 +141,7 @@ Ayrıca **Hacker Akademisi** ve **HackerLab** projeleri kapsamında uygulamalı 
 
 ---
 
-## `08 // İletişim`
+<h2 id="iletisim">08 // İletişim</h2>
 
 <p>
   <a href="https://github.com/erdibilisim">
