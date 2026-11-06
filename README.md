@@ -1,4 +1,4 @@
-<h2>Ahmet Erdi | <code>[ Siber Güvenlik Araştırmacısı ]</code></h2>
+<h1>Ahmet Erdi | <code>[ Siber Güvenlik Araştırmacısı ]</code></h1>
 
 <h2><code>00 // Bölümler</code></h2>
 
