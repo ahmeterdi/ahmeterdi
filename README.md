@@ -1,175 +1,216 @@
-<div align="center">
+# Ahmet Erdi | Cyber Security Researcher
 
-  <!-- HackTheBox Yeşili Temalı Özelleştirilmiş Banner -->
-  <img src="https://unsplash.com" alt="Ahmet Erdi - HackTheBox Style Profile" width="100%" />
-  
-  <br>
-  <br>
+<p align="center">
+  <img src="https://img.shields.io/badge/CYBER_SECURITY-Researcher-111927?style=for-the-badge&labelColor=00e676" />
+  <img src="https://img.shields.io/badge/PENETRATION_TESTING-00e676?style=for-the-badge&labelColor=111927" />
+  <img src="https://img.shields.io/badge/SECURITY_RESEARCH-00e676?style=for-the-badge&labelColor=111927" />
+</p>
 
-  <p>
-    <h1>
-      <font color="#9fef00">Ahmet Erdi</font>
-    </h1>
-    <h3>
-		<a href="https://github.com"><font color="#9fef00">Cybersecurity Specialist & Researcher (M.Sc.)</font></a>
-		&nbsp;|&nbsp;
-		<a href="#"><font color="#a4b1cd">Hacker Akademisi & HackerLab Founder</font></a>
-	</h3>
-  </p>
+<p align="center">
+  <b>Cyber Security Researcher | Penetration Tester | Security Educator</b>
+</p>
 
-  <p>
-    <font color="#a4b1cd">
-    Siber güvenlik alanında akademik birikimimi ve teknik uzmanlığımı birleştirerek ileri düzey araştırmalar, uygulamalı güvenlik testleri ve kontrollü laboratuvar çalışmaları gerçekleştiriyorum. 
-    Yüksek lisans eğitimimi siber güvenlik üzerine tamamlamış bir uzman olarak, web ve API güvenliğinden ağ güvenliğine, donanım güvenliğinden gömülü sistem araştırmalarına kadar geniş bir yelpazede akademik ve pratik çalışmalar yürütüyorum. 
-    Temel hedefimiz; siber güvenlik alanında nitelikli, erişilebilir ve özgün Türkçe teknik kaynaklar üreterek bilgi ve deneyimin paylaşımını teşvik etmek ve daha güçlü bir siber güvenlik ekosisteminin oluşmasına katkı sağlamaktır.
-    </font>
-  </p>
-
-</div>
+<p align="center">
+  Web ve API güvenliği, ağ güvenliği, penetrasyon testleri, gömülü sistem güvenliği ve donanım seviyesinde güvenlik araştırmaları üzerine çalışmalar yürütüyorum.
+</p>
 
 ---
 
-<div align="center">
+## About Me
 
-  <p>
-    <a href="#research-areas"><font color="#9fef00">Araştırma Alanları</font></a>
-    &nbsp;•&nbsp;
-    <a href="#technical-toolkit"><font color="#9fef00">Teknik Araç Seti</font></a>
-    &nbsp;•&nbsp;
-    <a href="#cybersecurity-profiles"><font color="#9fef00">Siber Profil & Rozetler</font></a>
-    &nbsp;•&nbsp;
-    <a href="#featured-hardware-security-research"><font color="#9fef00">Yayınlanmış Çalışmalar</font></a>
-    &nbsp;•&nbsp;
-    <a href="#contact"><font color="#9fef00">İletişim</font></a>
-  </p>
-</div>
+Siber güvenlik alanında teknik araştırma, güvenlik testleri, zafiyet analizi ve eğitim içerikleri geliştirme üzerine çalışıyorum.
+
+Çalışmalarımda teorik güvenlik bilgisini uygulamalı laboratuvar ortamlarıyla birleştirerek gerçek dünya senaryolarına dayalı güvenlik araştırmaları gerçekleştiriyorum.
+
+Aynı zamanda siber güvenlik eğitimlerini erişilebilir ve uygulamalı hale getirmek amacıyla **Hacker Akademisi** ve **HackerLab** projelerini geliştiriyorum.
 
 ---
 
-<h2 id="research-areas"><font color="#9fef00">#</font> <font color="#ffffff">Araştırma & Uzmanlık Alanları</font></h2>
+## Core Expertise
 
-<font color="#a4b1cd">Siber güvenlik alanındaki uzmanlığımı ve akademik/teknik çalışmalarımı aşağıdaki alanlarda sürdürüyorum:</font>
+```diff
++ Web & API Security
+  - Web Application Security
+  - REST API Security Testing
+  - Authentication & Authorization
+  - IDOR / BOLA / Broken Access Control
+  - OWASP Top 10
+  - JWT Security
 
-| <font color="#9fef00">Alan</font> | <font color="#9fef00">Çalışma Konuları</font> |
-| :--- | :--- |
-| **Academic Research** | İleri düzey siber güvenlik teorileri, tehdit modelleme ve akademik araştırma projeleri |
-| **Web & API Security** | Web uygulama güvenliği, API testleri, kimlik doğrulama ve yetkilendirme |
-| **Penetration Testing** | Güvenlik test metodolojileri, zafiyet analizi ve kontrollü doğrulama |
-| **Network Security** | Ağ keşfi, servis analizi, trafik inceleme ve ağ güvenliği |
-| **Embedded Systems & IoT** | UART, donanım arayüzleri, firmware ve gömülü sistem güvenliği |
-| **Active Directory** | Windows etki alanı güvenliği ve laboratuvar senaryoları |
-| **Linux Security** | Linux sistem yönetimi, erişim kontrolleri ve güvenlik incelemeleri |
-| **Security Automation** | Python, JavaScript ve otomasyon odaklı araç geliştirme |
++ Penetration Testing
+  - Security Assessment
+  - Vulnerability Analysis
+  - Exploitation & Validation
+  - Linux-based Penetration Testing
+  - Security Testing Methodologies
+
++ Network Security
+  - Network Discovery & Enumeration
+  - Network Traffic Analysis
+  - Service & Port Analysis
+  - Firewall & Network Segmentation
+  - Infrastructure Security
+
++ Embedded Systems & Hardware Security
+  - UART Protocol Analysis
+  - Hardware-level Access
+  - Firmware Security Research
+  - Embedded Linux
+  - IoT Security
+
++ Academic Research
+  - Cyber Security Research
+  - Technical Documentation
+  - Vulnerability Research
+  - Experimental Security Analysis
+  - Research-based Technical Writing
+
++ Cyber Security Education
+  - Practical Cyber Security Training
+  - Vulnerable Lab Development
+  - Security Curriculum Design
+  - Hands-on Learning Environments
+```
 
 ---
 
-<h2 id="technical-toolkit"><font color="#9fef00">#</font> <font color="#ffffff">Teknik Araç Seti (Matrix)</font></h2>
+## Technical Arsenal
 
-| <font color="#9fef00">Kategori</font> | <font color="#9fef00">Kullanılan Araçlar ve Teknolojiler</font> |
-| :--- | :--- |
-| **Infrastructure & OS** | `Kali Linux` `Ubuntu` `Debian` `Windows` `Proxmox VE` `pfSense` |
-| **Web & API Pentest** | `Burp Suite` `OWASP ZAP` `Postman` `OWASP Juice Shop` `SQLmap` `FFUF` |
-| **Network & Exploitation**| `Nmap` `Wireshark` `Metasploit Framework` |
-| **Automation & Dev** | `Python` `JavaScript` `Node.js` `Bash Scripting` `Git` `Docker` |
-| **Database & Web** | `MySQL` `Express.js` `Nginx` `PM2` |
-| **Hardware Security** | `Ghidra` `Arduino` `Raspberry Pi` |
+### Operating Systems & Infrastructure
+
+<p>
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white" />
+  <img src="https://img.shields.io/badge/Debian-A81D33?style=flat-square&logo=debian&logoColor=white" />
+  <img src="https://img.shields.io/badge/Proxmox-E57000?style=flat-square&logo=proxmox&logoColor=white" />
+  <img src="https://img.shields.io/badge/pfSense-212121?style=flat-square&logo=pfsense&logoColor=white" />
+</p>
+
+### Security & Pentesting Tools
+
+<p>
+  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nmap-4682B4?style=flat-square&logo=nmap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Metasploit-2596CD?style=flat-square&logo=metasploit&logoColor=white" />
+  <img src="https://img.shields.io/badge/OWASP-000000?style=flat-square&logo=owasp&logoColor=white" />
+</p>
+
+### Programming & Development
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+</p>
 
 ---
 
-<h2 id="cybersecurity-profiles"><font color="#9fef00">#</font> <font color="#ffffff">Siber Güvenlik Platformları & Laboratuvarlar</font></h2>
+## Projects & Initiatives
 
-<div align="center">
+### Hacker Akademisi
 
-  <!-- HackTheBox Resmi Stil Rozeti -->
-  <a href="https://hackthebox.com" target="_blank">
-    <img src="https://shields.io" alt="HackTheBox Profile" />
+Siber güvenlik alanında sistematik, uygulamalı ve seviyelendirilmiş eğitim içerikleri geliştirmeyi amaçlayan eğitim platformu.
+
+- Linux ve Kali Linux eğitimleri
+- Web Application Security
+- API Security
+- OWASP Top 10 odaklı eğitimler
+- Uygulamalı penetrasyon testi müfredatları
+- Teknik dokümantasyon ve cheatsheet içerikleri
+
+### HackerLab
+
+Siber güvenlik eğitimleri için izole, kontrollü ve uygulamalı laboratuvar altyapısı.
+
+- Proxmox tabanlı sanallaştırma altyapısı
+- Kali Linux öğrenci makineleri
+- İzole laboratuvar ağları
+- OWASP Juice Shop ve WebGoat tabanlı güvenlik senaryoları
+- API güvenlik test laboratuvarları
+- Flag tabanlı uygulamalı değerlendirme sistemi
+
+---
+
+## Research & Publications
+
+### Hardware-Level Unauthorized Access: Embedded System Compromise via UART Protocol
+
+TP-Link WR840N v6.20 cihazı üzerinde UART protokolü aracılığıyla donanım seviyesinde erişim ve gömülü sistem güvenliği üzerine yürütülen araştırma.
+
+**Research Focus:**
+
+- UART interface identification
+- TX / RX / GND / VCC analysis
+- Serial communication (115200 8N1)
+- Embedded Linux architecture
+- Bootloader and console access
+- Hardware-level security assessment
+- IoT device security
+
+---
+
+## Cyber Security Platforms
+
+<p>
+  <a href="https://www.hackthebox.com/">
+    <img src="https://img.shields.io/badge/Hack_The_Box-00e676?style=for-the-badge&logo=hackthebox&logoColor=111927" />
   </a>
-  &nbsp;&nbsp;
-  <!-- TryHackMe HTB Yeşil Stili Rozeti -->
-  <a href="https://tryhackme.com" target="_blank">
-    <img src="https://shields.io" alt="TryHackMe Profile" />
+  <a href="https://tryhackme.com/">
+    <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" />
   </a>
-  &nbsp;&nbsp;
-  <!-- Credly HTB Yeşil Stili Rozeti -->
-  <a href="https://credly.com" target="_blank">
-    <img src="https://shields.io" alt="Credly Profile" />
+  <a href="https://portswigger.net/web-security">
+    <img src="https://img.shields.io/badge/PortSwigger-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" />
   </a>
-
-</div>
-
----
-
-<h2 id="featured-hardware-security-research"><font color="#9fef00">#</font> <font color="#ffffff">Yayınlanmış Çalışmalarımız</font></h2>
-
-<table width="100%" border="0" cellpadding="0" cellspacing="0" bgcolor="#111927">
-  <tr>
-    <td width="40%" valign="middle" style="padding:0; line-height:0;">
-      <a href="#">
-        <img src="./assets/uart-proje-banner.png" alt="Gömülü Sistem Güvenliği" width="100%" style="width:100%; max-width:100%; height:auto; display:block; border:0;">
-      </a>
-    </td>
-    <td width="60%" valign="middle" style="padding:15px;">
-      <h3>
-		<a href="#">
-          <font color="#9fef00">Donanım Seviyesinde Yetkisiz Erişim: UART Protokolü İle Gömülü Sistemlerin İhlali</font>
-		</a>
-	  </h3>
-      <p><font color="#ffffff"><strong>Gömülü Sistemlerin Güvenlik Analizi</strong></font><br><font color="#a4b1cd">Hedef:</font>&nbsp;<a href="#"><font color="#9fef00">TP-Link WR840N v6.20</font></a></p>
-      <p><font color="#a4b1cd">UART protokolü üzerinden gömülü sistemlerin donanım seviyesindeki güvenliğini inceleyen 12 bölümlük teknik araştırma serisi.</font></p>
-      <p>
-        <img src="https://shields.io" alt="Embedded Systems Research">
-        <img src="https://shields.io" alt="UART Analysis">
-        <img src="https://shields.io" alt="Hardware Security">
-      </p>
-    </td>
-  </tr>
-</table>
-
----
-
-<h2 id="hacker-akademisi"><font color="#9fef00">#</font> <font color="#ffffff">Hacker Akademisi</font></h2>
-
-<font color="#a4b1cd">
-**Hacker Akademisi**, siber güvenlik konularını Türkçe, aşamalı ve uygulama odaklı eğitim içerikleriyle sunmayı amaçlayan eğitim platformudur.
-</font>
-
-- <font color="#a4b1cd">Linux ve siber güvenlik temelleri</font>
-- <font color="#a4b1cd">Web ve API güvenliği</font>
-- <font color="#a4b1cd">Red Team ve Blue Team konuları</font>
-
-<a href="#"><font color="#9fef00">[ Hacker Akademisi Deposunu Ziyaret Et -> ]</font></a>
-
----
-
-<h2 id="hackerlab"><font color="#9fef00">#</font> <font color="#ffffff">HackerLab</font></h2>
-
-<font color="#a4b1cd">
-**HackerLab**, siber güvenlik eğitimleri için kontrollü sanal laboratuvarlar, hedef sistemler ve uygulamalı test senaryoları geliştirmeye odaklanan çalışma alanımdır.
-</font>
-
-- <font color="#a4b1cd">İzole ve kontrollü laboratuvar altyapıları</font>
-- <font color="#a4b1cd">Güvenlik testlerine yönelik hedef sistemler</font>
-- <font color="#a4b1cd">Uygulamalı senaryolar ve teknik dokümantasyon</font>
-
-<a href="#"><font color="#9fef00">[ HackerLab Deposunu Ziyaret Et -> ]</font></a>
-
----
-
-<h2 id="contact"><font color="#9fef00">#</font> <font color="#ffffff">İletişim</font></h2>
-
-<font color="#a4b1cd">Araştırmalar, akademik/teknik iş birlikleri ve eğitim içerikleri hakkında iletişim kurmak için GitHub profilimi ziyaret edebilirsiniz.</font>
-
-<br>
-<br>
-
-<div align="center">
-
-  <a href="https://github.com">
-    <img src="https://shields.io" alt="GitHub - ahmeterdi" />
+  <a href="https://owasp.org/">
+    <img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white" />
   </a>
+</p>
 
-  <br>
-  <br>
-  <p><sub><font color="#6272a4">RESEARCH WITH CURIOSITY. TEST WITH DISCIPLINE. DOCUMENT WITH PRECISION.</font></sub></p>
+---
 
-</div>
+## GitHub Statistics
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=GITHUB_KULLANICI_ADIN&show_icons=true&theme=transparent&hide_border=true&title_color=00e676&icon_color=00e676&text_color=ffffff" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GITHUB_KULLANICI_ADIN&layout=compact&theme=transparent&hide_border=true&title_color=00e676&text_color=ffffff" />
+</p>
+
+---
+
+## Current Focus
+
+```diff
++ Developing practical Web & API Security laboratories
++ Mapping OWASP Top 10:2025 vulnerabilities to hands-on challenges
++ Building structured cybersecurity training curricula
++ Researching embedded Linux and hardware-level security
++ Developing Node.js-based vulnerable API environments
++ Improving penetration testing methodologies
+```
+
+---
+
+## Connect
+
+<p align="center">
+  <a href="https://github.com/GITHUB_KULLANICI_ADIN">
+    <img src="https://img.shields.io/badge/GitHub-111927?style=for-the-badge&logo=github&logoColor=00e676" />
+  </a>
+  <a href="https://www.linkedin.com/in/LINKEDIN_KULLANICI_ADIN/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <b>Research. Analyze. Test. Secure.</b>
+</p>
+
+<p align="center">
+  <sub>Knowledge grows when theory meets practice.</sub>
+</p>
