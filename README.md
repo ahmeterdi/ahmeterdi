@@ -97,7 +97,7 @@ Ayrıca **Hacker Akademisi** ve **HackerLab** projeleri kapsamında uygulamalı 
 
 <table width="100%" border="0" cellpadding="0" cellspacing="0">
   <tr>
-    <td width="50%" valign="middle" style="padding:0; line-height:0;">
+    <td width="40%" valign="middle" style="padding:0; line-height:0;">
 	  <a href="#">
 		<img
 		  src="assets/uart-proje-banner.png"
@@ -116,9 +116,11 @@ Ayrıca **Hacker Akademisi** ve **HackerLab** projeleri kapsamında uygulamalı 
       <p><strong>Gömülü Sistemlerin Güvenlik Analizi</strong><br><strong>Hedef:<strong>&nbsp;<a href="#">TP-Link WR840N v6.20</a></p>
       <p>UART protokolü üzerinden gömülü sistemlerin donanım seviyesindeki güvenliğini inceleyen 12 bölümlük teknik araştırma serisi.</p>
       <p>
-        <img src="https://shields.io" alt="Embedded Systems Research">
-        <img src="https://shields.io" alt="UART Analysis">
-        <img src="https://shields.io" alt="Hardware Security">
+        <p>
+		  <img src="https://img.shields.io/badge/Embedded_Systems-Research-6A5ACD?style=flat-square" alt="Embedded Systems Research">
+		  <img src="https://img.shields.io/badge/UART-Analysis-007ACC?style=flat-square" alt="UART Analysis">
+		  <img src="https://img.shields.io/badge/Hardware-Security-E67E22?style=flat-square" alt="Hardware Security">
+		</p>
       </p>
     </td>
   </tr>
