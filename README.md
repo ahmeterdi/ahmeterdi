@@ -117,9 +117,15 @@ Ayrıca **Hacker Akademisi** ve **HackerLab** projeleri kapsamında uygulamalı 
       <p>UART protokolü üzerinden gömülü sistemlerin donanım seviyesindeki güvenliğini inceleyen 12 bölümlük teknik araştırma serisi.</p>
       <p>
         <p>
-		  <img src="https://img.shields.io/badge/Embedded_Systems-Research-6A5ACD?style=flat-square" alt="Embedded Systems Research">
-		  <img src="https://img.shields.io/badge/UART-Analysis-007ACC?style=flat-square" alt="UART Analysis">
-		  <img src="https://img.shields.io/badge/Hardware-Security-E67E22?style=flat-square" alt="Hardware Security">
+		  <a href="#">
+			<img src="https://img.shields.io/badge/Embedded_Systems-Research-6A5ACD?style=flat-square" alt="Embedded Systems Research">
+		  </a>
+		  <a href="#">
+			<img src="https://img.shields.io/badge/UART-Analysis-007ACC?style=flat-square" alt="UART Analysis">
+		  </a>
+		  <a href="#">
+			<img src="https://img.shields.io/badge/Hardware-Security-E67E22?style=flat-square" alt="Hardware Security">
+		  </a>
 		</p>
       </p>
     </td>
