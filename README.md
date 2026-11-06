@@ -84,11 +84,14 @@ Siber güvenlik alanındaki uzmanlığımı ve akademik/teknik çalışmalarım�
 <h2 id="github-metrics">📊 GitHub Canlı Aktivite Grafikleri</h2>
 
 <p align="center">
+  <!-- GitHub İstatistik Kartı (Siber güvenlik için koyu tema 'tokyonight' seçildi) -->
   <img src="https://vercel.app" alt="Ahmet Erdi GitHub Stats" height="160" />
+  <!-- En Çok Kullanılan Diller Kartı -->
   <img src="https://vercel.app" alt="Top Languages" height="160" />
 </p>
 
 <p align="center">
+  <!-- GitHub Push Serisi (Streak) Kartı -->
   <img src="https://herokuapp.com" alt="Ahmet Erdi Streak Stats" width="100%" />
 </p>
 
@@ -97,13 +100,13 @@ Siber güvenlik alanındaki uzmanlığımı ve akademik/teknik çalışmalarım�
 <h2 id="cybersecurity-profiles">🛡️ Siber Güvenlik Platformları & Rozetler</h2>
 
 <p align="center">
-  <!-- TryHackMe Rozeti -->
+  <!-- TryHackMe Canlı Profil Rozeti (Kullanıcı adınız 'ahmeterdi' olarak ayarlandı) -->
   <a href="https://tryhackme.com" target="_blank">
     <img src="https://amazonaws.com" alt="TryHackMe Badge" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <!-- HackTheBox Rozeti -->
-  <a href="https://discyber.io" target="_blank">
+  <!-- HackTheBox Dinamik Profil İkonu -->
+  <a href="https://hackthebox.com" target="_blank">
     <img src="https://shields.io" alt="HackTheBox Profile" />
   </a>
 </p>
