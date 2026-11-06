@@ -113,7 +113,7 @@ Ayrıca **Hacker Akademisi** ve **HackerLab** projeleri kapsamında uygulamalı 
 			Donanım Seviyesinde Yetkisiz Erişim: UART Protokolü İle Gömülü Sistemlerin İhlali
 		</a>
 	  </h3>
-      <p><strong>Gömülü Sistemlerin Güvenlik Analizi</strong><br><strong>Hedef:<strong>&nbsp;<a href="#">TP-Link WR840N v6.20</a></p>
+      <p><strong>Seri:<strong>&nbsp;Gömülü Sistemlerin Güvenlik Analizi</strong><br><strong>Hedef:<strong>&nbsp;<a href="#">TP-Link WR840N v6.20</a></p>
       <p>UART protokolü üzerinden gömülü sistemlerin donanım seviyesindeki güvenliğini inceleyen 12 bölümlük teknik araştırma serisi.</p>
         <p>
 		  <a href="#">
@@ -133,7 +133,7 @@ Ayrıca **Hacker Akademisi** ve **HackerLab** projeleri kapsamında uygulamalı 
 	  <a href="#">
 		<img
 		  src="assets/implant-proje-banner.png"
-		  alt="Gömülü Sistem Güvenliği"
+		  alt="Router Chip Implant Araştırması"
 		  width="100%"
 		  style="display:block; width:100%; height:auto; border:0;"
 		>
@@ -142,10 +142,10 @@ Ayrıca **Hacker Akademisi** ve **HackerLab** projeleri kapsamında uygulamalı 
     <td width="60%" valign="middle" style="padding:12px;">
       <h3>
 		<a href="#">
-			Donanım Seviyesinde Yetkisiz Erişim: UART Protokolü İle Gömülü Sistemlerin İhlali
+			Donanım Seviyesinde Siber Saldırı: Router Üzerinde Chip Implant Denemesi
 		</a>
 	  </h3>
-      <p><strong>Gömülü Sistemlerin Güvenlik Analizi</strong><br><strong>Hedef:<strong>&nbsp;<a href="#">TP-Link WR840N v6.20</a></p>
+      <p><strong>Seri:<strong>&nbsp;Gömülü Sistemlerin Güvenlik Analizi<br><strong>Hedef:<strong>&nbsp;<a href="#">TP-Link WR840N v6.20</a></p>
       <p>UART protokolü üzerinden gömülü sistemlerin donanım seviyesindeki güvenliğini inceleyen 12 bölümlük teknik araştırma serisi.</p>
         <p>
 		  <a href="#">
