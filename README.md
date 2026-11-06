@@ -30,7 +30,7 @@ Web ve API güvenliği, ağ güvenliği, gömülü sistemler ve donanım seviyes
 
 Ayrıca **Hacker Akademisi** ve **HackerLab** projeleri kapsamında uygulamalı siber güvenlik eğitimleri ve laboratuvar ortamları geliştiriyorum.
 
-<h2 id="uzmanlik-alanlari">02 // Uzmanlık Alanları</h2>
+<h2 id="uzmanlik-alanlari">02 // Uzmanlık Alanları</code></h2>
 
 | Alan | Çalışma Konuları |
 |---|---|
@@ -41,7 +41,7 @@ Ayrıca **Hacker Akademisi** ve **HackerLab** projeleri kapsamında uygulamalı 
 | 📚 **Akademik Araştırma** | Zafiyet araştırmaları, teknik analiz, akademik yayın |
 | 🎓 **Siber Güvenlik Eğitimi** | Müfredat geliştirme, uygulamalı laboratuvarlar, eğitim senaryoları |
 
-<h2 id="teknik-araclar">03 // Teknik Araçlar ve Teknolojiler</h2>
+<h2 id="teknik-araclar"><code>03 // Teknik Araçlar ve Teknolojiler</code></h2>
 
 **İşletim Sistemleri ve Altyapı**
 
@@ -88,7 +88,7 @@ Ayrıca **Hacker Akademisi** ve **HackerLab** projeleri kapsamında uygulamalı 
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
 </p>
 
-<h2 id="projeler">04 // Projeler</h2>
+<h2 id="projeler"><code>04 // Projeler</code></h2>
 
 | Proje | Açıklama |
 |---|---|
@@ -121,9 +121,9 @@ Ayrıca **Hacker Akademisi** ve **HackerLab** projeleri kapsamında uygulamalı 
   </tr>
 </table>
 
-<h2 id="calismalar">06 // Üzerinde Çalıştığım Konular</h2>
+<h2 id="calismalar"><code>06 // Üzerinde Çalıştığım Konular</code></h2>
 
-```diff
+```bash
 + OWASP Top 10:2025 tabanlı uygulamalı güvenlik senaryoları
 + Web ve API penetrasyon testi laboratuvarları
 + Node.js tabanlı zafiyetli API sistemleri
@@ -132,7 +132,7 @@ Ayrıca **Hacker Akademisi** ve **HackerLab** projeleri kapsamında uygulamalı 
 + HackerLab sanallaştırma ve laboratuvar altyapısı
 ```
 
-<h2 id="istatistikler">07 // GitHub İstatistikleri</h2>
+<h2 id="istatistikler"><code>07 // GitHub İstatistikleri</code></h2>
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=erdibilisim&show_icons=true&theme=tokyonight&hide_border=true" />
@@ -141,7 +141,7 @@ Ayrıca **Hacker Akademisi** ve **HackerLab** projeleri kapsamında uygulamalı 
 
 ---
 
-<h2 id="iletisim">08 // İletişim</h2>
+<h2 id="iletisim"><code>08 // İletişim</code></h2>
 
 <p>
   <a href="https://github.com/erdibilisim">
