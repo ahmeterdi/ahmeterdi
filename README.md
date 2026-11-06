@@ -81,35 +81,44 @@ Siber güvenlik alanındaki uzmanlığımı ve akademik/teknik çalışmalarım�
 
 ---
 
-<h2 id="github-metrics">📊 GitHub Canlı Aktivite Grafikleri</h2>
+<h2 id="github-metrics">📊 GitHub Aktivite & Teknik Profil</h2>
+
+<div align="center">
+  <img src="https://shields.io" alt="GitHub Stats">
+  <img src="https://shields.io" alt="Academic Degree">
+  <img src="https://shields.io" alt="Status">
+</div>
+
+<br>
 
 <p align="center">
-  <!-- GitHub İstatistik Kartı (Siber güvenlik için koyu tema 'tokyonight' seçildi) -->
-  <img src="https://vercel.app" alt="Ahmet Erdi GitHub Stats" height="160" />
-  <!-- En Çok Kullanılan Diller Kartı -->
-  <img src="https://vercel.app" alt="Top Languages" height="160" />
-</p>
-
-<p align="center">
-  <!-- GitHub Push Serisi (Streak) Kartı -->
-  <img src="https://herokuapp.com" alt="Ahmet Erdi Streak Stats" width="100%" />
+  <a href="https://github.com">
+    <img src="https://vercel.app" alt="Ahmet Erdi GitHub Stats" height="150" />
+  </a>
 </p>
 
 ---
 
-<h2 id="cybersecurity-profiles">🛡️ Siber Güvenlik Platformları & Rozetler</h2>
+<h2 id="cybersecurity-profiles">🛡️ Siber Güvenlik Platformları & Laboratuvarlar</h2>
 
-<p align="center">
-  <!-- TryHackMe Canlı Profil Rozeti (Kullanıcı adınız 'ahmeterdi' olarak ayarlandı) -->
+<div align="center">
+
+  <!-- TryHackMe Statik Rozeti -->
   <a href="https://tryhackme.com" target="_blank">
-    <img src="https://amazonaws.com" alt="TryHackMe Badge" />
+    <img src="https://shields.io" alt="TryHackMe Profile" />
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <!-- HackTheBox Dinamik Profil İkonu -->
+  &nbsp;&nbsp;
+  <!-- HackTheBox Statik Rozeti -->
   <a href="https://hackthebox.com" target="_blank">
     <img src="https://shields.io" alt="HackTheBox Profile" />
   </a>
-</p>
+  &nbsp;&nbsp;
+  <!-- Credly/Sertifika Statik Rozeti -->
+  <a href="https://credly.com" target="_blank">
+    <img src="https://shields.io" alt="Credly Profile" />
+  </a>
+
+</div>
 
 ---
 
