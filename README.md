@@ -123,7 +123,7 @@ Ayrıca **Hacker Akademisi** ve **HackerLab** projeleri kapsamında uygulamalı 
 
 <h2 id="calismalar"><code>06 // Üzerinde Çalıştığım Konular</code></h2>
 
-```bash
+```ansi
 ┌──(erdi㉿kali)-[~/projects]
 └─$ cat current-focus.txt
 
