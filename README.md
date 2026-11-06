@@ -22,7 +22,7 @@
 
 ---
 
-<h2 id="hakkimda">01 // Hakkımda</h2>
+<h2 id="hakkimda"><code>01 // Hakkımda</code></h2>
 
 Siber güvenlik, penetrasyon testleri ve teknik güvenlik araştırmaları üzerine çalışıyorum.
 
