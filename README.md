@@ -5,7 +5,7 @@
 <p align="center">
   <a href="#hakkimda">👤 Hakkımda</a>
   &nbsp;|&nbsp;
-  <a href="#uzmanlik-alanlari">🎯 Uzmanlık Alanları</a>
+  <a href="#uzmanlik-alanlari">🎯 Uzmanlık Alanlarım</a>
   &nbsp;|&nbsp;
   <a href="#teknik-araclar">🛠️ Teknik Araçlar</a>
   &nbsp;|&nbsp;
@@ -28,16 +28,16 @@ Web ve API güvenliği, ağ güvenliği, gömülü sistemler ve donanım seviyes
 
 Ayrıca **Hacker Akademisi** ve **HackerLab** projeleri kapsamında uygulamalı siber güvenlik eğitimleri ve laboratuvar ortamları geliştiriyorum.
 
-<h2 id="uzmanlik-alanlari">02 // Uzmanlık Alanları</code></h2>
+<h2 id="uzmanlik-alanlari"><code>02 // Uzmanlık Alanlarım</code></h2>
 
 | Alan | Çalışma Konuları |
 |---|---|
-| 🌐 **Web & API Güvenliği** | OWASP Top 10, REST API, IDOR, BOLA, JWT, Yetkilendirme |
-| 🎯 **Sızma Testleri** | Keşif, servis analizi, zafiyet tespiti, kontrollü istismar |
-| 🌍 **Ağ Güvenliği** | Ağ keşfi, trafik analizi, firewall, ağ segmentasyonu |
-| 🔧 **Donanım Güvenliği** | UART, Firmware, Embedded Linux, IoT |
-| 📚 **Akademik Araştırma** | Zafiyet araştırmaları, teknik analiz, akademik yayın |
-| 🎓 **Siber Güvenlik Eğitimi** | Müfredat geliştirme, uygulamalı laboratuvarlar, eğitim senaryoları |
+| 🌐 **Web & API Güvenliği** | Web uygulamalarının ve REST API servislerinin güvenlik analizi. OWASP Top 10, OWASP API Security Top 10, SQL Injection, XSS, IDOR, BOLA, JWT güvenliği, kimlik doğrulama ve yetkilendirme mekanizmalarının test edilmesi. |
+| 🎯 **Sızma Testleri** | Sistematik güvenlik testi metodolojileri; hedef keşfi, servis ve sürüm analizi, saldırı yüzeyinin belirlenmesi, zafiyet tespiti, kontrollü istismar ve güvenlik bulgularının doğrulanması. |
+| 🌍 **Ağ Güvenliği** | Ağ mimarisi ve protokol analizi, ağ keşfi, port ve servis taraması, trafik inceleme, firewall yapılandırmaları, VLAN, ağ segmentasyonu ve izole laboratuvar ağlarının tasarlanması. |
+| 🔧 **Donanım & Gömülü Sistem Güvenliği** | UART ve seri haberleşme protokolleri, firmware analizi, Embedded Linux, BusyBox, IoT cihaz güvenliği, donanım arayüzlerinin incelenmesi ve gömülü sistemlerde yetkisiz erişim araştırmaları. |
+| 📚 **Akademik Araştırma** | Siber güvenlik alanında teknik araştırma, literatür incelemesi, deneysel analiz, zafiyet araştırmaları ve akademik yayın hazırlama. |
+| 🎓 **Siber Güvenlik Eğitimi** | Uygulamalı siber güvenlik müfredatlarının hazırlanması, öğrenme yol haritalarının oluşturulması, teknik ders içerikleri, laboratuvar senaryoları, CTF görevleri ve ölçme-değerlendirme süreçlerinin geliştirilmesi. |
 
 <h2 id="teknik-araclar"><code>03 // Teknik Araçlar ve Teknolojiler</code></h2>
 
