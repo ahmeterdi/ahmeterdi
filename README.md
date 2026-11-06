@@ -1,7 +1,9 @@
-# Ahmet Erdi | ### `[ Siber Güvenlik Araştırmacısı ]`
+# Ahmet Erdi |`[ Siber Güvenlik Araştırmacısı ]`
+
+## `00 // Bölümler`
 
 <p align="center">
-  <a href="#hakkimda">👤 Hakkımda</a>
+  <a href="#Hakkımda">👤 Hakkımda</a>
   &nbsp;|&nbsp;
   <a href="#uzmanlik-alanlari">🎯 Uzmanlık Alanları</a>
   &nbsp;|&nbsp;
