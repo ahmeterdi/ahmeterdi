@@ -39,13 +39,11 @@
     &nbsp;•&nbsp;
     <a href="#technical-toolkit">Teknik Araç Seti</a>
     &nbsp;•&nbsp;
+    <a href="#github-metrics">Aktivite Grafikleri</a>
+    &nbsp;•&nbsp;
+    <a href="#cybersecurity-profiles">Zafiyet Lab Profilleri</a>
+    &nbsp;•&nbsp;
     <a href="#featured-hardware-security-research">Yayınlanmış Çalışmalarımız</a>
-    &nbsp;•&nbsp;
-    <a href="#hacker-akademisi">Hacker Akademisi</a>
-    &nbsp;•&nbsp;
-    <a href="#hackerlab">HackerLab</a>
-    &nbsp;•&nbsp;
-    <a href="https://github.com">GitHub</a>
     &nbsp;•&nbsp;
     <a href="#contact">İletişim</a>
   </p>
@@ -83,6 +81,35 @@ Siber güvenlik alanındaki uzmanlığımı ve akademik/teknik çalışmalarım�
 
 ---
 
+<h2 id="github-metrics">📊 GitHub Canlı Aktivite Grafikleri</h2>
+
+<p align="center">
+  <img src="https://vercel.app" alt="Ahmet Erdi GitHub Stats" height="160" />
+  <img src="https://vercel.app" alt="Top Languages" height="160" />
+</p>
+
+<p align="center">
+  <img src="https://herokuapp.com" alt="Ahmet Erdi Streak Stats" width="100%" />
+</p>
+
+---
+
+<h2 id="cybersecurity-profiles">🛡️ Siber Güvenlik Platformları & Rozetler</h2>
+
+<p align="center">
+  <!-- TryHackMe Rozeti -->
+  <a href="https://tryhackme.com" target="_blank">
+    <img src="https://amazonaws.com" alt="TryHackMe Badge" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <!-- HackTheBox Rozeti -->
+  <a href="https://discyber.io" target="_blank">
+    <img src="https://shields.io" alt="HackTheBox Profile" />
+  </a>
+</p>
+
+---
+
 <h2 id="featured-hardware-security-research">Yayınlanmış Çalışmalarımız</h2>
 
 <table width="100%" border="0" cellpadding="0" cellspacing="0">
@@ -115,7 +142,7 @@ Siber güvenlik alanındaki uzmanlığımı ve akademik/teknik çalışmalarım�
 
 **Hacker Akademisi**, siber güvenlik konularını Türkçe, aşamalı ve uygulama odaklı eğitim içerikleriyle sunmayı amaçlayan eğitim platformudur.
 
-- Linux ve siber güvenlik temelleri
+- Linux ve siber危機 temelleri
 - Web ve API güvenliği
 - Red Team ve Blue Team konuları
 - Ders dokümanları, laboratuvar görevleri ve değerlendirmeler
