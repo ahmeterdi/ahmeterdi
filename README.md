@@ -1,10 +1,21 @@
-# Ahmet Erdi
-### `[ Siber Güvenlik Araştırmacısı ]`
+# Ahmet Erdi | ### `[ Siber Güvenlik Araştırmacısı ]`
 
-<p>
-  <img src="https://img.shields.io/badge/@erdibilisim-181818?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Siber_Güvenlik-Araştırma-2457A6?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Penetrasyon_Testleri-Uygulama-E87524?style=for-the-badge" />
+<p align="center">
+  <a href="#hakkimda">👤 Hakkımda</a>
+  &nbsp;|&nbsp;
+  <a href="#uzmanlik-alanlari">🎯 Uzmanlık Alanları</a>
+  &nbsp;|&nbsp;
+  <a href="#teknik-araclar">🛠️ Teknik Araçlar</a>
+  &nbsp;|&nbsp;
+  <a href="#projeler">📂 Projeler</a>
+  &nbsp;|&nbsp;
+  <a href="#arastirmalar">🔬 Araştırmalar</a>
+  &nbsp;|&nbsp;
+  <a href="#calismalar">⚡ Çalışmalarım</a>
+  &nbsp;|&nbsp;
+  <a href="#istatistikler">📊 İstatistikler</a>
+  &nbsp;|&nbsp;
+  <a href="#iletisim">✉️ İletişim</a>
 </p>
 
 ---
@@ -84,14 +95,29 @@ Ayrıca **Hacker Akademisi** ve **HackerLab** projeleri kapsamında uygulamalı 
 
 ## `05 // Araştırmalar`
 
-**UART Protokolü ile Gömülü Sistemlerin Güvenliği**
-
-TP-Link WR840N v6.20 üzerinde donanım seviyesinde erişim ve gömülü sistem güvenliği araştırması.
-
-- UART arayüz analizi
-- Seri haberleşme ve konsol erişimi
-- Firmware ve Embedded Linux incelemesi
-- IoT donanım güvenliği
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td width="40%" valign="middle" style="padding:0; line-height:0;">
+      <a href="#">
+        <img src="./assets/uart-proje-banner.png" alt="Gömülü Sistem Güvenliği" width="100%" style="width:100%; max-width:100%; height:auto; display:block; border:0;">
+      </a>
+    </td>
+    <td width="60%" valign="middle" style="padding:12px;">
+      <h3>
+		<a href="#">
+			Donanım Seviyesinde Yetkisiz Erişim: UART Protokolü İle Gömülü Sistemlerin İhlali
+		</a>
+	  </h3>
+      <p><strong>Gömülü Sistemlerin Güvenlik Analizi</strong><br><strong>Hedef:<strong>&nbsp;<a href="#">TP-Link WR840N v6.20</a></p>
+      <p>UART protokolü üzerinden gömülü sistemlerin donanım seviyesindeki güvenliğini inceleyen 12 bölümlük teknik araştırma serisi.</p>
+      <p>
+        <img src="https://shields.io" alt="Embedded Systems Research">
+        <img src="https://shields.io" alt="UART Analysis">
+        <img src="https://shields.io" alt="Hardware Security">
+      </p>
+    </td>
+  </tr>
+</table>
 
 ## `06 // Şu An Üzerinde Çalıştıklarım`
 
