@@ -90,10 +90,8 @@ Ayrıca **Hacker Akademisi** ve **HackerLab** projeleri kapsamında uygulamalı 
 
 | Proje | Açıklama |
 |---|---|
-| 🏛️ **Hacker Akademisi** | Siber güvenlik alanında sistematik ve uygulama odaklı öğrenmeyi desteklemek amacıyla geliştirilen eğitim platformu. 
-Linux, ağ güvenliği, web ve API güvenliği, sızma testleri gibi konularda yapılandırılmış müfredatlar, teknik ders içerikleri, uygulama senaryoları ve öğrenme yol haritaları sunar. |
-| 🧪 **HackerLab** | Siber güvenlik eğitimlerinin gerçekçi senaryolarla uygulanabilmesi için geliştirilen sanal laboratuvar altyapısı. İzole ağ mimarileri, sanallaştırma teknolojileri, 
-Kali Linux çalışma ortamları, zafiyetli hedef sistemler ve kontrollü saldırı-savunma senaryoları üzerine odaklanır. Öğrenilen teknik bilgilerin güvenli bir ortamda test edilmesini ve deneyim kazanılmasını sağlar. |
+| 🏛️ **Hacker Akademisi** | Siber güvenlik alanında sistematik ve uygulama odaklı öğrenmeyi desteklemek amacıyla geliştirilen eğitim platformu. Linux, ağ güvenliği, web ve API güvenliği, sızma testleri gibi konularda yapılandırılmış müfredatlar, teknik ders içerikleri, uygulama senaryoları ve öğrenme yol haritaları sunar. |
+| 🧪 **HackerLab** | Siber güvenlik eğitimlerinin gerçekçi senaryolarla uygulanabilmesi için geliştirilen sanal laboratuvar altyapısı. İzole ağ mimarileri, sanallaştırma teknolojileri, Kali Linux çalışma ortamları, zafiyetli hedef sistemler ve kontrollü saldırı-savunma senaryoları üzerine odaklanır. Öğrenilen teknik bilgilerin güvenli bir ortamda test edilmesini ve deneyim kazanılmasını sağlar. |
 
 <h2 id="arastirmalar"><code>05 // Araştırmalar</code></h2>
 
