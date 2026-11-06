@@ -124,12 +124,17 @@ Ayrıca **Hacker Akademisi** ve **HackerLab** projeleri kapsamında uygulamalı 
 <h2 id="calismalar"><code>06 // Üzerinde Çalıştığım Konular</code></h2>
 
 ```bash
-+ OWASP Top 10:2025 tabanlı uygulamalı güvenlik senaryoları
-+ Web ve API penetrasyon testi laboratuvarları
-+ Node.js tabanlı zafiyetli API sistemleri
-+ Gömülü Linux ve donanım güvenliği araştırmaları
-+ Hacker Akademisi eğitim müfredatları
-+ HackerLab sanallaştırma ve laboratuvar altyapısı
+┌──(erdi㉿kali)-[~/projects]
+└─$ cat current-focus.txt
+
+[+] Hacker Akademisi
+    └── Eğitim müfredatları ve uygulamalı siber güvenlik içerikleri
+
+[+] HackerLab
+    └── Sanallaştırma altyapısı ve izole laboratuvar ortamları
+
+┌──(erdi㉿kali)-[~/projects]
+└─$ _
 ```
 
 <h2 id="istatistikler"><code>07 // GitHub İstatistikleri</code></h2>
