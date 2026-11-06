@@ -15,8 +15,6 @@
   &nbsp;|&nbsp;
   <a href="#calismalar">⚡ Çalışmalarım</a>
   &nbsp;|&nbsp;
-  <a href="#istatistikler">📊 İstatistikler</a>
-  &nbsp;|&nbsp;
   <a href="#iletisim">✉️ İletişim</a>
 </p>
 
@@ -92,10 +90,12 @@ Ayrıca **Hacker Akademisi** ve **HackerLab** projeleri kapsamında uygulamalı 
 
 | Proje | Açıklama |
 |---|---|
-| 🏛️ **Hacker Akademisi** | Siber güvenlik eğitimleri, müfredatlar ve uygulamalı öğrenme içerikleri |
-| 🧪 **HackerLab** | İzole sanal laboratuvarlar, zafiyetli sistemler ve uygulamalı güvenlik senaryoları |
+| 🏛️ **Hacker Akademisi** | Siber güvenlik alanında sistematik ve uygulama odaklı öğrenmeyi desteklemek amacıyla geliştirilen eğitim platformu. 
+Linux, ağ güvenliği, web ve API güvenliği, sızma testleri gibi konularda yapılandırılmış müfredatlar, teknik ders içerikleri, uygulama senaryoları ve öğrenme yol haritaları sunar. |
+| 🧪 **HackerLab** | Siber güvenlik eğitimlerinin gerçekçi senaryolarla uygulanabilmesi için geliştirilen sanal laboratuvar altyapısı. İzole ağ mimarileri, sanallaştırma teknolojileri, 
+Kali Linux çalışma ortamları, zafiyetli hedef sistemler ve kontrollü saldırı-savunma senaryoları üzerine odaklanır. Öğrenilen teknik bilgilerin güvenli bir ortamda test edilmesini ve deneyim kazanılmasını sağlar. |
 
-<h2 id="arastirmalar">05 // Araştırmalar</h2>
+<h2 id="arastirmalar"><code>05 // Araştırmalar</code></h2>
 
 <table width="100%" border="0" cellpadding="0" cellspacing="0">
   <tr>
@@ -123,7 +123,7 @@ Ayrıca **Hacker Akademisi** ve **HackerLab** projeleri kapsamında uygulamalı 
 
 <h2 id="calismalar"><code>06 // Üzerinde Çalıştığım Konular</code></h2>
 
-```ansi
+```bash
 ┌──(erdi㉿kali)-[~/projects]
 └─$ cat current-focus.txt
 
@@ -137,16 +137,9 @@ Ayrıca **Hacker Akademisi** ve **HackerLab** projeleri kapsamında uygulamalı 
 └─$ _
 ```
 
-<h2 id="istatistikler"><code>07 // GitHub İstatistikleri</code></h2>
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=erdibilisim&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erdibilisim&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
 ---
 
-<h2 id="iletisim"><code>08 // İletişim</code></h2>
+<h2 id="iletisim"><code>07 // İletişim</code></h2>
 
 <p>
   <a href="https://github.com/erdibilisim">
