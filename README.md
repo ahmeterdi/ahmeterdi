@@ -98,9 +98,14 @@ Ayrıca **Hacker Akademisi** ve **HackerLab** projeleri kapsamında uygulamalı 
 <table width="100%" border="0" cellpadding="0" cellspacing="0">
   <tr>
     <td width="40%" valign="middle" style="padding:0; line-height:0;">
-      <a href="#">
-        <img src="./assets/uart-proje-banner.png" alt="Gömülü Sistem Güvenliği" width="100%" style="width:100%; max-width:100%; height:auto; display:block; border:0;">
-      </a>
+        <a href="#">
+		<img
+		  src="./assets/uart-proje-banner.png"
+		  alt="Donanım Seviyesinde Yetkisiz Erişim - UART Projesi"
+		  width="100%"
+		  style="max-width: 100%; height: auto; display: block;"
+		>
+		</a>
     </td>
     <td width="60%" valign="middle" style="padding:12px;">
       <h3>
