@@ -115,19 +115,17 @@ Ayrıca **Hacker Akademisi** ve **HackerLab** projeleri kapsamında uygulamalı 
 	  </h3>
       <p><strong>Gömülü Sistemlerin Güvenlik Analizi</strong><br><strong>Hedef:<strong>&nbsp;<a href="#">TP-Link WR840N v6.20</a></p>
       <p>UART protokolü üzerinden gömülü sistemlerin donanım seviyesindeki güvenliğini inceleyen 12 bölümlük teknik araştırma serisi.</p>
-      <p>
         <p>
 		  <a href="#">
 			<img src="https://img.shields.io/badge/Embedded_Systems-Research-6A5ACD?style=flat-square" alt="Embedded Systems Research">
-		  </a>&nbsp;&nbsp;
+		  </a>&nbsp;
 		  <a href="#">
 			<img src="https://img.shields.io/badge/UART-Analysis-007ACC?style=flat-square" alt="UART Analysis">
-		  </a>&nbsp;&nbsp;
+		  </a>&nbsp;
 		  <a href="#">
 			<img src="https://img.shields.io/badge/Hardware-Security-E67E22?style=flat-square" alt="Hardware Security">
 		  </a>
 		</p>
-      </p>
     </td>
   </tr>
 </table>
