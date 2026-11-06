@@ -128,63 +128,43 @@ Ayrıca **Hacker Akademisi** ve **HackerLab** projeleri kapsamında uygulamalı 
 		</p>
     </td>
   </tr>
-  
-   <tr>
-    <td width="40%" valign="middle" style="padding:0;">
-      <a href="#">
-        <img
-          src="assets/implant-proje-banner.png"
-          alt="Router Chip Implant Araştırması"
-          width="100%"
-          style="display:block; width:100%; height:auto; border:0;"
-        >
-      </a>
-    </td>
+</table>
 
+---
+
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td width="40%" valign="middle" style="padding:0;">
+	  <a href="#">
+		<img
+		  src="assets/implant-proje-banner.png"
+		  alt="Gömülü Sistem Güvenliği"
+		  width="100%"
+		  style="display:block; width:100%; height:auto; border:0;"
+		>
+	  </a>
+	</td>
     <td width="60%" valign="middle" style="padding:12px;">
       <h3>
-        <a href="#">
-          Donanım Seviyesinde Siber Saldırı: Router Üzerinde Chip Implant Denemesi
-        </a>
-      </h3>
-
-      <p>
-        <strong>Router Donanım Güvenliği ve Chip Implant Analizi</strong><br>
-        <strong>Hedef:</strong>
-        <a href="#">TP-Link WR840N</a>
-      </p>
-
-      <p>
-        Yönlendiriciler üzerinde donanım seviyesinde chip implant
-        saldırılarının uygulanabilirliğini, saldırı yöntemlerini,
-        güvenlik risklerini ve karşı önlemleri inceleyen teknik araştırma serisi.
-      </p>
-
-      <p>
-        <a href="#">
-          <img
-            src="https://img.shields.io/badge/Chip_Implant-Research-6A5ACD?style=flat-square"
-            alt="Chip Implant Research"
-          >
-        </a>&nbsp;
-
-        <a href="#">
-          <img
-            src="https://img.shields.io/badge/Hardware-Security-007ACC?style=flat-square"
-            alt="Hardware Security"
-          >
-        </a>&nbsp;
-
-        <a href="#">
-          <img
-            src="https://img.shields.io/badge/Router-Security-E67E22?style=flat-square"
-            alt="Router Security"
-          >
-        </a>
-      </p>
+		<a href="#">
+			Donanım Seviyesinde Yetkisiz Erişim: UART Protokolü İle Gömülü Sistemlerin İhlali
+		</a>
+	  </h3>
+      <p><strong>Gömülü Sistemlerin Güvenlik Analizi</strong><br><strong>Hedef:<strong>&nbsp;<a href="#">TP-Link WR840N v6.20</a></p>
+      <p>UART protokolü üzerinden gömülü sistemlerin donanım seviyesindeki güvenliğini inceleyen 12 bölümlük teknik araştırma serisi.</p>
+        <p>
+		  <a href="#">
+			<img src="https://img.shields.io/badge/Embedded_Systems-Research-6A5ACD?style=flat-square" alt="Embedded Systems Research">
+		  </a>&nbsp;
+		  <a href="#">
+			<img src="https://img.shields.io/badge/UART-Analysis-007ACC?style=flat-square" alt="UART Analysis">
+		  </a>&nbsp;
+		  <a href="#">
+			<img src="https://img.shields.io/badge/Hardware-Security-E67E22?style=flat-square" alt="Hardware Security">
+		  </a>
+		</p>
     </td>
   </tr>
-  
 </table>
 
 
